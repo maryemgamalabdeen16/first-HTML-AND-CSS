@@ -211,6 +211,7 @@ background-color:rgba(171, 138, 129, 0.5);
       margin: 15px 10px;
     padding: 10px 20px;
     border: 0;
+    border-radius: 15px;
     font-size: 17px;
      cursor: pointer;
 }
