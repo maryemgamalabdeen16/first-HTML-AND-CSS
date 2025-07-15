@@ -908,7 +908,7 @@ opacity: 0.5;
     color: #fff;
    
     margin-left: auto ;
-     cursor: pointer;
+
  }
 
  
@@ -922,7 +922,7 @@ opacity: 0.5;
 
  }
 .team-item:hover .team-info-title{
-/* color: #e2d7d7; */
+
 color:  rgb(163, 138, 138);
 }
   .team-info-p {
