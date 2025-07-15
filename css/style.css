@@ -902,8 +902,9 @@ opacity: 0.5;
     display: block;
     width: 40px;
     height: 40px;
-     /* background-color: rgba(228, 178, 164, 0.7); */
-          background-color: rgba(168, 84, 60, 0.7);
+     background-color: rgba(201, 147, 132, 0.7);
+
+
     color: #fff;
    
     margin-left: auto ;
@@ -921,7 +922,8 @@ opacity: 0.5;
 
  }
 .team-item:hover .team-info-title{
-color: #e2d7d7;
+/* color: #e2d7d7; */
+color:  rgb(163, 138, 138);
 }
   .team-info-p {
    
@@ -929,7 +931,7 @@ color: #e2d7d7;
       margin-top: -20px;
  }
  .team-item:hover .team-info-p{
-  color:rgb(155, 134, 134);
+  color:rgb(139, 123, 123);
 
  }
  .team-item::after{
